@@ -18,3 +18,7 @@ venv/
 
 # PyCharm
 .idea/
+
+# Dataset
+data/
+*.csv
